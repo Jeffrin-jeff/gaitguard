@@ -5,3 +5,4 @@ scipy
 pillow
 scikit-learn
 matplotlib
+pyserial
