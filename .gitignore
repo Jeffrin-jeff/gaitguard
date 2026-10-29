@@ -1,0 +1,12 @@
+cache/
+library/
+models/
+ai_report.txt
+feature_importance.png
+__pycache__/
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.m4v
+*.pkl
